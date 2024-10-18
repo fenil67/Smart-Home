@@ -229,12 +229,12 @@ cd smarthomes
 
 - Ensure the proper version of Node.js and React is used to avoid compatibility issues with hooks.
 
-<img width="1561" alt="Screenshot 2024-10-13 at 11 52 49 PM" src="https://github.com/user-attachments/assets/2a516c3e-584f-4e68-a33c-16899733b3b1">
-<img width="1561" alt="Screenshot 2024-10-13 at 11 52 00 PM" src="https://github.com/user-attachments/assets/3d45e1e4-8db4-4c94-a9a3-461587448cbe">
-<img width="1561" alt="Screenshot 2024-10-13 at 11 51 56 PM" src="https://github.com/user-attachments/assets/a0e6845a-3c8c-4dbb-a4a0-9341183e12cb">
-<img width="1561" alt="Screenshot 2024-10-13 at 11 51 48 PM" src="https://github.com/user-attachments/assets/e8da9d26-998f-4aea-81f0-aa14ef71280a">
-<img width="1561" alt="Screenshot 2024-10-13 at 11 51 39 PM" src="https://github.com/user-attachments/assets/d101bb39-ba45-4f10-a4d6-a084909aedff">
-<img width="1561" alt="Screenshot 2024-10-13 at 11 51 34 PM" src="https://github.com/user-attachments/assets/f86b6235-4a97-479d-a48f-919a9e81582a">
-<img width="1561" alt="Screenshot 2024-10-13 at 11 51 28 PM" src="https://github.com/user-attachments/assets/71b761b5-0032-4ea9-a2e5-03cab615f756">
-<img width="1561" alt="Screenshot 2024-10-13 at 11 51 22 PM" src="https://github.com/user-attachments/assets/fa5c55e2-cd2c-4322-893b-06f8e3343cc5">
-<img width="1561" alt="Screenshot 2024-10-13 at 11 51 16 PM" src="https://github.com/user-attachments/assets/3e18db99-6376-4fe9-8a5c-903c78ee5bc1">
+<img width="500" alt="Screenshot 2024-10-13 at 11 52 49 PM" src="https://github.com/user-attachments/assets/2a516c3e-584f-4e68-a33c-16899733b3b1">
+<img width="500" alt="Screenshot 2024-10-13 at 11 52 00 PM" src="https://github.com/user-attachments/assets/3d45e1e4-8db4-4c94-a9a3-461587448cbe">
+<img width="500" alt="Screenshot 2024-10-13 at 11 51 56 PM" src="https://github.com/user-attachments/assets/a0e6845a-3c8c-4dbb-a4a0-9341183e12cb">
+<img width="500" alt="Screenshot 2024-10-13 at 11 51 48 PM" src="https://github.com/user-attachments/assets/e8da9d26-998f-4aea-81f0-aa14ef71280a">
+<img width="500" alt="Screenshot 2024-10-13 at 11 51 39 PM" src="https://github.com/user-attachments/assets/d101bb39-ba45-4f10-a4d6-a084909aedff">
+<img width="500" alt="Screenshot 2024-10-13 at 11 51 34 PM" src="https://github.com/user-attachments/assets/f86b6235-4a97-479d-a48f-919a9e81582a">
+<img width="500" alt="Screenshot 2024-10-13 at 11 51 28 PM" src="https://github.com/user-attachments/assets/71b761b5-0032-4ea9-a2e5-03cab615f756">
+<img width="500" alt="Screenshot 2024-10-13 at 11 51 22 PM" src="https://github.com/user-attachments/assets/fa5c55e2-cd2c-4322-893b-06f8e3343cc5">
+<img width="500" alt="Screenshot 2024-10-13 at 11 51 16 PM" src="https://github.com/user-attachments/assets/3e18db99-6376-4fe9-8a5c-903c78ee5bc1">

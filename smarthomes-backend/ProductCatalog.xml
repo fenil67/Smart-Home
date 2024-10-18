@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductCatalog>
+  <Product>
+    <name>Ring Video Doorbell 3</name>
+    <price>199.99</price>
+    <description>A smart doorbell with motion detection and 1080p video.</description>
+    <category>smart doorbell</category>
+    <accessories>Extra Battery, Chime Pro</accessories>
+    <image>https://drive.google.com/uc?id=1EJV9xKyc8cFAz5HlwiyK69fxXVGNatzJ</image>
+    <discount>40</discount>
+    <rebate>20</rebate>
+    <warranty>false</warranty>
+    <stock>10</stock>
+  </Product>
+  <Product>
+    <name>Eufy Security Doorbell</name>
+    <price>149.99</price>
+    <description>Battery-powered doorbell with human detection and two-way audio.</description>
+    <category>smart doorbell</category>
+    <accessories>HomeBase 2, Wireless Chime</accessories>
+    <image>https://drive.google.com/uc?id=1U3pLrdInGUbgybanSJtHtGb3YbdSgP5I</image>
+    <discount>10</discount>
+    <rebate>0</rebate>
+    <warranty>true</warranty>
+    <stock>20</stock>
+  </Product>
+  <Product>
+    <name>Arlo Essential Video Doorbell</name>
+    <price>179.99</price>
+    <description>Smart video doorbell with a 180-degree field of view.</description>
+    <category>smart doorbell</category>
+    <accessories>Wireless Chime, Extra Battery</accessories>
+    <image>https://drive.google.com/uc?id=117nbAp7KEHz3-B1d0fWl7eSHchFUohfq</image>
+    <discount>0</discount>
+    <rebate>0</rebate>
+    <warranty>false</warranty>
+    <stock>15</stock>
+  </Product>
+  <Product>
+    <name>RemoBell S Wi-Fi Doorbell</name>
+    <price>99.99</price>
+    <description>Affordable wired smart doorbell with cloud storage.</description>
+    <category>smart doorbell</category>
+    <accessories>Wall Mount, Doorbell Transformer</accessories>
+    <image>https://drive.google.com/uc?id=11x1VOy7vKAraY2bacKZ_XP7o_KrcTuNd</image>
+    <discount>0</discount>
+    <rebate>20</rebate>
+    <warranty>true</warranty>
+    <stock>25</stock>
+  </Product>
+  <Product>
+    <name>August Wi-Fi Smart Lock</name>
+    <price>229.99</price>
+    <description>Smart lock that attaches to your existing deadbolt.</description>
+    <category>smart doorlock</category>
+    <accessories>DoorSense, Keypad</accessories>
+    <image>https://drive.google.com/uc?id=15eYupBLGaEr9N6S_oaU-qs7FQPiGcfaM</image>
+    <discount>25</discount>
+    <rebate>15</rebate>
+    <warranty>true</warranty>
+    <stock>38</stock>
+  </Product>
+  <Product>
+    <name>Schlage Encode Smart Lock</name>
+    <price>249.99</price>
+    <description>Smart deadbolt with built-in Wi-Fi and voice control.</description>
+    <category>smart doorlock</category>
+    <accessories>Camelot Trim, Deadbolt Cover</accessories>
+    <image>https://drive.google.com/uc?id=1qdfAZDp5VzaAc1RPV2aMR9FAMX6O7NCs</image>
+    <discount>30</discount>
+    <rebate>0</rebate>
+    <warranty>false</warranty>
+    <stock>35</stock>
+  </Product>
+  <Product>
+    <name>Yale Assure Lock SL</name>
+    <price>179.99</price>
+    <description>Keyless touchscreen deadbolt with Z-Wave.</description>
+    <category>smart doorlock</category>
+    <accessories>Yale Connect Wi-Fi Bridge, Keypad</accessories>
+    <image>https://drive.google.com/uc?id=1KYsw4fZ2BieJQsvxemqQtBKCuvhl5oL2</image>
+    <discount>20</discount>
+    <rebate>10</rebate>
+    <warranty>true</warranty>
+    <stock>18</stock>
+  </Product>
+  <Product>
+    <name>Level Bolt Invisible Smart Lock</name>
+    <price>199.99</price>
+    <description>Invisible smart lock that fits into your existing deadbolt.</description>
+    <category>smart doorlock</category>
+    <accessories>Keypad, Door Sensor</accessories>
+    <image>https://drive.google.com/uc?id=1q3gNnNdk-inp7yX2mULLHlpY0wzcpWtw</image>
+    <discount>35</discount>
+    <rebate>20</rebate>
+    <warranty>true</warranty>
+    <stock>22</stock>
+  </Product>
+  <Product>
+    <name>Kwikset Halo Wi-Fi Smart Lock</name>
+    <price>229.99</price>
+    <description>Wi-Fi enabled smart lock with remote access.</description>
+    <category>smart doorlock</category>
+    <accessories>Keypad, Backup Key</accessories>
+    <image>https://drive.google.com/uc?id=1TJBLslJvsHapWuj4-1TYO61-nNfjptqC</image>
+    <discount>20</discount>
+    <rebate>10</rebate>
+    <warranty>true</warranty>
+    <stock>12</stock>
+  </Product>
+  <Product>
+    <name>Philips Hue White Ambiance</name>
+    <price>39.99</price>
+    <description>Dimmable smart bulb with warm and cool light settings.</description>
+    <category>smart lighting</category>
+    <accessories>Hue Bridge, Dimmer Switch</accessories>
+    <image>https://drive.google.com/uc?id=1P6WveheBI7NNjGl9gSHgApkdi58Mzet3</image>
+    <discount>10</discount>
+    <rebate>0</rebate>
+    <warranty>false</warranty>
+    <stock>60</stock>
+  </Product>
+  <Product>
+    <name>LIFX Smart LED Bulb</name>
+    <price>49.99</price>
+    <description>Multicolor LED bulb with built-in Wi-Fi and no hub required.</description>
+    <category>smart lighting</category>
+    <accessories>Color Filter, Dimmer</accessories>
+    <image>https://drive.google.com/uc?id=13d4ig1Oj_LnjdmwCuvzVens6ATIWIYOz</image>
+    <discount>0</discount>
+    <rebate>0</rebate>
+    <warranty>true</warranty>
+    <stock>55</stock>
+  </Product>
+  <Product>
+    <name>TP-Link Kasa Smart Light</name>
+    <price>24.99</price>
+    <description>Energy-saving smart bulb with voice control.</description>
+    <category>smart lighting</category>
+    <accessories>Smart Plug, Light Dimmer</accessories>
+    <image>https://drive.google.com/uc?id=1QtarE0BTr5Xa2LsMpdwsGowIFMiWgGQx</image>
+    <discount>5</discount>
+    <rebate>0</rebate>
+    <warranty>true</warranty>
+    <stock>45</stock>
+  </Product>
+  <Product>
+    <name>Nanoleaf Shapes Hexagons</name>
+    <price>199.99</price>
+    <description>Modular smart lighting panels with music sync and voice control.</description>
+    <category>smart lighting</category>
+    <accessories>Mounting Kit, Power Supply</accessories>
+    <image>https://drive.google.com/uc?id=1NeBHCNMzYHgfI-Es9PXGrp97Sv90236d</image>
+    <discount>0</discount>
+    <rebate>15</rebate>
+    <warranty>false</warranty>
+    <stock>10</stock>
+  </Product>
+  <Product>
+    <name>Sengled Smart LED Bulb</name>
+    <price>29.99</price>
+    <description>Smart LED bulb with color-changing capabilities and voice control.</description>
+    <category>smart lighting</category>
+    <accessories>Hub, Motion Sensor</accessories>
+    <image>https://drive.google.com/uc?id=1TzivLFzM0kOAiyGdlBBNjtfOSoA6oTz4</image>
+    <discount>8</discount>
+    <rebate>0</rebate>
+    <warranty>true</warranty>
+    <stock>28</stock>
+  </Product>
+  <Product>
+    <name>Amazon Echo (4th Gen)</name>
+    <price>199.99</price>
+    <description>Smart speaker with premium sound and Alexa.</description>
+    <category>smart speaker</category>
+    <accessories>Echo Sub, Smart Plug</accessories>
+    <image>https://drive.google.com/uc?id=16Dx5p3dOgIKAHttddSKpfzWJNB-nV3xG</image>
+    <discount>15</discount>
+    <rebate>0</rebate>
+    <warranty>true</warranty>
+    <stock>65</stock>
+  </Product>
+  <Product>
+    <name>Google Nest Audio</name>
+    <price>99.99</price>
+    <description>Smart speaker with room-filling sound and Google Assistant.</description>
+    <category>smart speaker</category>
+    <accessories>Wall Mount, Power Adapter</accessories>
+    <image>https://drive.google.com/uc?id=17hhB4N_z2PbcLdbuY4WIXjbK8bUSqa1T</image>
+    <discount>10</discount>
+    <rebate>0</rebate>
+    <warranty>false</warranty>
+    <stock>70</stock>
+  </Product>
+  <Product>
+    <name>Apple HomePod Mini</name>
+    <price>99.99</price>
+    <description>Compact smart speaker with Siri and impressive sound.</description>
+    <category>smart speaker</category>
+    <accessories>Power Cable, Wall Charger</accessories>
+    <image>https://drive.google.com/uc?id=1-szlQJ94ADQoGZdUycEImG_kaWqoM0aB</image>
+    <discount>12</discount>
+    <rebate>0</rebate>
+    <warranty>true</warranty>
+    <stock>50</stock>
+  </Product>
+  <Product>
+    <name>Sonos One (Gen 2)</name>
+    <price>199.99</price>
+    <description>Voice-controlled smart speaker with Alexa and Google Assistant.</description>
+    <category>smart speaker</category>
+    <accessories>Wall Mount, Speaker Stand</accessories>
+    <image>https://drive.google.com/uc?id=1msgIcnJkMAyUeR8UjVM5H3moBy0yK3yL</image>
+    <discount>25</discount>
+    <rebate>0</rebate>
+    <warranty>true</warranty>
+    <stock>25</stock>
+  </Product>
+  <Product>
+    <name>Bose Home Speaker 500</name>
+    <price>299.99</price>
+    <description>Smart speaker with built-in Alexa and stereo sound.</description>
+    <category>smart speaker</category>
+    <accessories>Remote Control, Smart Plug</accessories>
+    <image>https://drive.google.com/uc?id=1v07kJnoEn5VzYqyBMxQITSUY533sB56D</image>
+    <discount>30</discount>
+    <rebate>20</rebate>
+    <warranty>true</warranty>
+    <stock>15</stock>
+  </Product>
+  <Product>
+    <name>Google Nest Learning Thermostat</name>
+    <price>249.99</price>
+    <description>Energy-saving thermostat that learns your schedule.</description>
+    <category>smart thermostat</category>
+    <accessories>Temperature Sensor, Trim Kit</accessories>
+    <image>https://drive.google.com/uc?id=1B08RdFdXif7YhAwpPTXVW7n9pgplBc1M</image>
+    <discount>0</discount>
+    <rebate>15</rebate>
+    <warranty>true</warranty>
+    <stock>35</stock>
+  </Product>
+  <Product>
+    <name>Ecobee SmartThermostat</name>
+    <price>249.99</price>
+    <description>Smart thermostat with voice control and room sensors.</description>
+    <category>smart thermostat</category>
+    <accessories>Room Sensors, Power Extender Kit</accessories>
+    <image>https://drive.google.com/uc?id=1ewYGby2CNyYUT8_YILkvXWDzKxcyK9uH</image>
+    <discount>20</discount>
+    <rebate>10</rebate>
+    <warranty>true</warranty>
+    <stock>40</stock>
+  </Product>
+  <Product>
+    <name>Honeywell Home T9</name>
+    <price>169.99</price>
+    <description>Smart thermostat with multi-room sensors.</description>
+    <category>smart thermostat</category>
+    <accessories>Wall Plate, Remote Sensor</accessories>
+    <image>https://drive.google.com/uc?id=1bWQN6JEPg9O7sylmWJisRPn3uRdiawlT</image>
+    <discount>12</discount>
+    <rebate>0</rebate>
+    <warranty>true</warranty>
+    <stock>50</stock>
+  </Product>
+  <Product>
+    <name>Emerson Sensi Touch</name>
+    <price>129.99</price>
+    <description>Touchscreen smart thermostat with mobile control.</description>
+    <category>smart thermostat</category>
+    <accessories>Wall Plate, Wire Saver</accessories>
+    <image>https://drive.google.com/uc?id=1M6qV6su8eRQ7ysp6xFkOZGWlDbU4DcKV</image>
+    <discount>10</discount>
+    <rebate>0</rebate>
+    <warranty>true</warranty>
+    <stock>38</stock>
+  </Product>
+  <Product>
+    <name>Lux Kono Smart Thermostat</name>
+    <price>139.99</price>
+    <description>Stylish smart thermostat with interchangeable faceplates.</description>
+    <category>smart thermostat</category>
+    <accessories>Wall Plate, Power Adapter</accessories>
+    <image>https://drive.google.com/uc?id=1sKb8s7HMI-7X7dBVhY-gAvkkzVuWPa3W</image>
+    <discount>0</discount>
+    <rebate>15</rebate>
+    <warranty>true</warranty>
+    <stock>18</stock>
+  </Product>
+  <Product>
+    <name>wireless doorbell</name>
+    <price>80</price>
+    <description>A smart doorbell with wireless tech.</description>
+    <category>smart doorbell</category>
+    <accessories/>
+    <image/>
+    <discount>10</discount>
+    <rebate>5</rebate>
+    <warranty>true</warranty>
+    <stock>100</stock>
+  </Product>
+  <Product>
+    <name>Test</name>
+    <price>277</price>
+    <description>dkvskd</description>
+    <category>smart doorbell</category>
+    <accessories>dkhbvksd</accessories>
+    <image>kcsdhcks</image>
+    <discount>27</discount>
+    <rebate>38</rebate>
+    <warranty>false</warranty>
+    <stock>30</stock>
+  </Product>
+  <Product>
+    <name>New Smart Doorbell</name>
+    <price>199.99</price>
+    <description>This is a new smart doorbell with advanced features.</description>
+    <category>smart doorbell</category>
+    <accessories>Camera, Motion Sensor</accessories>
+    <image>doorbell.jpg</image>
+    <discount>10</discount>
+    <rebate>5</rebate>
+    <warranty>true</warranty>
+    <stock>50</stock>
+  </Product>
+</ProductCatalog>
